@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mahanhacking
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-mahanhacking/mahanhacking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+apt update
+apt upgrade
+pkg install wget php git openssl
+git clone https://github.com/HACKGM/cam
+cd cam
+bash cam.sh
